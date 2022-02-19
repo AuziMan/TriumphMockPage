@@ -17,5 +17,5 @@ This repository hold the mockup from triumph tech.
 
 # What I learned
 
-## 1. This page really helped me understanbd margin and page sections alot
-## 2. Getting the entire page layout first helped me break down the page into smaller, easier steps to develop. 
+1. This page really helped me understanbd margin and page sections alot
+2. Getting the entire page layout first helped me break down the page into smaller, easier steps to develop. 
