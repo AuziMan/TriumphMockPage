@@ -11,7 +11,7 @@ This repository hold the mockup from triumph tech.
 1. Create general page layout. the page has three obvious sections, so I started with defining those. 
 2. I then started from the top, creating each section and experimenting with margin sizes. 
 3. Once I had the general layout of the page set up, I utilized a tool call AngreyTool [AngreyTools](https://angrytools.com/) which had a helpful flexbox creator.
-4. 
+
 
 ---
 
