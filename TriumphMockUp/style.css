@@ -22,7 +22,7 @@
 .bldingImg {
   z-index: -1;
   width: 90%;
-  height: 400px;
+  height: 450px;
   position: relative;
   top: 0;
   align-items: centers;
@@ -55,16 +55,22 @@
 
 .glassesGirl {
   width: 400px;
-  height: 400px;
+  height: 450px;
   top: 400px;
   left: 400px;
+}
+
+.glassesGirl:hover{
+  transform: scale(1.1); 
+  transition-duration: 0.4s;
+  
 }
 
 .card1 {
   font-size: 15px;
   background-color: white;
   width: 400px;
-  height: 400px;
+  height: 450px;
   top: 400px;
   left: 400px;
 }
@@ -181,6 +187,11 @@
   margin-right: 10%;
 }
 
+.reflect:hover{
+  transform: scale(1.1); 
+  transition-duration: 0.4s;
+}
+
 .container2 {
   background-color: black;
   color: antiquewhite;
@@ -232,6 +243,7 @@
 
   gap: 2px;
   height: 500px;
+  
 }
 
 .angry-grid p{
@@ -308,7 +320,7 @@
 }
 
 .HCB-p {
-  font-size: x-small;
+  font-size: 14px;
   margin-left: 60px;
   margin-right: 60px;
 }
@@ -351,6 +363,12 @@
   height: 450px;
   width: 350px;
   margin: -100px;
+  min-width: auto;
+}
+
+.dozer:hover{
+  transform: scale(1.1); 
+  transition-duration: 0.4s;
 }
 
 .flex-container {
